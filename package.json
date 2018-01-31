@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest /Users/sahilbalodi/Desktop/node/httpjson/verify.js",
+    "test": "jest  /Users/sahilbalodi/Desktop/node/httpjson/verify.js",
     "coverage": "jest --coverage"
   },
   "author": "",
